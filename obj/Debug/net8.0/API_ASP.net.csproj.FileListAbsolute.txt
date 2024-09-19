@@ -28,3 +28,4 @@ C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\obj
 C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\obj\Debug\net8.0\API_ASP.net.pdb
 C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\obj\Debug\net8.0\API_ASP.net.genruntimeconfig.cache
 C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\obj\Debug\net8.0\ref\API_ASP.net.dll
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\obj\Debug\net8.0\API_ASP.net.sourcelink.json

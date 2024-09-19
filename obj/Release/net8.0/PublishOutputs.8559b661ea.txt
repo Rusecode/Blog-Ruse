@@ -1,0 +1,7 @@
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\out\API_ASP.net.exe
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\out\appsettings.Development.json
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\out\appsettings.json
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\out\API_ASP.net.dll
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\out\API_ASP.net.deps.json
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\out\API_ASP.net.runtimeconfig.json
+C:\Users\RuseC\OneDrive\Documentos\Grimório\Estudos\ASP.net_mvc\API_ASP.net\out\API_ASP.net.pdb
